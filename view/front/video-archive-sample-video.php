@@ -1,0 +1,1 @@
+<div class="vthumb"><?php echo video_player( $video );?></div>

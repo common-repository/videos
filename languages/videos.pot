@@ -1,0 +1,230 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Videos\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-25 10:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.5.3"
+
+#: view/admin/settings.php:37
+msgid "1080p"
+msgstr ""
+
+#: view/admin/settings.php:30
+msgid "720p"
+msgstr ""
+
+#: includes/class-video-post.php:14
+msgctxt "add new on admin bar"
+msgid "Videos"
+msgstr ""
+
+#: includes/class-video-post.php:16
+msgid "Add New Video"
+msgstr ""
+
+#: includes/class-video-post.php:13
+msgctxt "admin menu"
+msgid "Videos"
+msgstr ""
+
+#: includes/class-video-post.php:20
+msgid "All Videos"
+msgstr ""
+
+#. Author of the plugin
+msgid "aviplugins.com"
+msgstr ""
+
+#: view/admin/settings.php:36
+msgid "Change High Res Text"
+msgstr ""
+
+#: view/admin/settings.php:29
+msgid "Change Low Res Text"
+msgstr ""
+
+#: view/admin/video-data.php:9 view/admin/video-data.php:25
+#: view/admin/video-data.php:40
+msgid "Check to remove"
+msgstr ""
+
+#: view/admin/video-data.php:10 view/admin/video-data.php:26
+#: view/admin/video-data.php:41 view/front/video-archive-download-link.php:2
+#: view/front/video-download-link.php:2 view/front/video-download-link.php:2
+msgid "Download"
+msgstr ""
+
+#: view/admin/video-duration-field.php:2
+msgid "Duration"
+msgstr ""
+
+#: includes/class-video-post.php:18
+msgid "Edit Video"
+msgstr ""
+
+#: view/admin/settings.php:22
+msgid "Enable Video Download"
+msgstr ""
+
+#: actions.php:38
+msgid "For best retults use image of size 360 x 250"
+msgstr ""
+
+#: view/admin/settings.php:8
+msgid "General"
+msgstr ""
+
+#: view/front/video-search-widget.php:4 view/front/videos-search.php:4
+msgid "Go"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/videos/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.aviplugins.com/"
+msgstr ""
+
+#: includes/class-video-post.php:17
+msgid "New Videos"
+msgstr ""
+
+#: includes/class-video-post.php:24
+msgid "No Videos found in Trash."
+msgstr ""
+
+#: includes/class-video-post.php:23
+msgid "No Videos found."
+msgstr ""
+
+#: view/admin/settings.php:59
+msgid "Note"
+msgstr ""
+
+#: includes/class-video-data-process-front.php:20
+#: includes/class-video-data-process-front.php:32
+msgid "Oops!"
+msgstr ""
+
+#: includes/class-video-post.php:22
+msgid "Parent Video:"
+msgstr ""
+
+#: includes/class-video-post.php:11
+msgctxt "post type general name"
+msgid "Video"
+msgstr ""
+
+#: includes/class-video-post.php:12
+msgctxt "post type singular name"
+msgid "Video"
+msgstr ""
+
+#: view/front/relative-videos.php:4
+msgid "Related Videos"
+msgstr ""
+
+#: view/front/video-search-widget.php:3 view/front/videos-search.php:3
+msgid "Search for videos"
+msgstr ""
+
+#: includes/class-video-post.php:21
+msgid "Search Videos"
+msgstr ""
+
+#: view/admin/settings.php:70
+msgid "shortcode to display videos in a page."
+msgstr ""
+
+#: view/admin/settings.php:14
+msgid "Shortcodes"
+msgstr ""
+
+#: view/admin/settings.php:44
+msgid "Submit"
+msgstr ""
+
+#: widgets/video-category-widget.php:35 widgets/video-search-widget.php:35
+#: widgets/video-tag-widget.php:35
+msgid "Title"
+msgstr ""
+
+#: view/admin/video-data.php:3 view/admin/video-data.php:19
+#: view/admin/video-data.php:35
+msgid "Upload File (MP4)"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Upload video files (MP4) and display in frontend for users to view and "
+"download. Videos can be categorized into different categories. Tags are also "
+"supported."
+msgstr ""
+
+#: view/admin/settings.php:11
+msgid "URLs"
+msgstr ""
+
+#: includes/class-video-post.php:15
+msgctxt "Video"
+msgid "Add New"
+msgstr ""
+
+#: view/admin/settings.php:51
+msgid "Video archive page URL"
+msgstr ""
+
+#: widgets/video-category-widget.php:9
+msgid "Video categories"
+msgstr ""
+
+#: includes/class-video-data.php:29
+msgid "Video Data"
+msgstr ""
+
+#: view/admin/video-data.php:2
+msgid "Video File"
+msgstr ""
+
+#: view/admin/video-data.php:18
+msgid "Video High Resolution File"
+msgstr ""
+
+#: view/admin/video-data.php:34
+msgid "Video Sample File"
+msgstr ""
+
+#: widgets/video-search-widget.php:9
+msgid "Video search form"
+msgstr ""
+
+#: view/admin/settings.php:3
+msgid "Video Settings"
+msgstr ""
+
+#: widgets/video-tag-widget.php:9
+msgid "Video tags"
+msgstr ""
+
+#: includes/class-video-data.php:13
+msgid "Video Upload"
+msgstr ""
+
+#. Name of the plugin
+msgid "Videos"
+msgstr ""
+
+#: includes/class-video-post.php:19
+msgid "View Video"
+msgstr ""

@@ -1,0 +1,64 @@
+/* message */
+.ap-table{
+background-color:#FFFFFF; 
+padding:10px; 
+margin:5px 0px;
+}
+
+@media screen and (max-width: 600px) {
+	.ap-table tr {
+		display: block;
+	}
+	.ap-table td {
+		display: block;
+	}
+	.ap-table td::before {
+		float: left;
+	}
+	.ap-table td:last-child {
+		border-bottom: 0;
+	}
+}
+
+/* tabs */
+.ap-tab-content{
+	padding:10px;
+}
+.ap-active{
+	background-color: #FFFFFF !important;
+    border-bottom: 1px solid #0073AA !important;
+}
+.ap-tabs{
+	width:100%;
+	border-bottom:1px solid #cccccc;
+}
+.ap-tab{
+	width:100px;
+	text-align:center;
+	display:inline-block;
+	padding:10px;
+	border:1px solid #F1F1F1;
+	background-color:#F1F1F1;
+	border-bottom:1px solid #F1F1F1;
+	cursor:pointer;
+	margin:2px 0px 0px 0px;
+}
+/* tabs */
+
+#attachments{
+	float:left;
+}
+.abox{
+	border:1px dashed #bbb;
+	padding:5px;
+	margin:2px;
+	float:left;
+	width:105px;
+}
+.rem{	
+	clear:both;
+	float:left;
+}
+.down{
+	float:right;
+}

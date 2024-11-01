@@ -1,0 +1,86 @@
+msgid "For best retults use image of size 360 x 250"
+msgstr "For bedste retults brug billede af størrelse 360 x 250"
+
+msgid "Video Upload"
+msgstr "Video upload"
+
+msgid "Video File"
+msgstr "Videofil"
+
+msgid "Upload File (MP4)"
+msgstr "Videofil (MP4)"
+
+msgid "Check to remove"
+msgstr "Kontrollér at fjerne"
+
+msgid "Video Sample File"
+msgstr "Video Sample File"
+
+msgid "Video Data"
+msgstr "Video data"
+
+msgid "Duration"
+msgstr "Varighed"
+
+msgid "Add New Video"
+msgstr "Tilføj ny video"
+
+msgid "New Videos"
+msgstr "Nye videoer"
+
+msgid "Edit Video"
+msgstr "Rediger video"
+
+msgid "View Video"
+msgstr "Se video"
+
+msgid "All Videos"
+msgstr "Alle videoer"
+
+msgid "Search Videos"
+msgstr "Søg efter videoer"
+
+msgid "Parent Video:"
+msgstr "Forældre video:"
+
+msgid "No Videos found."
+msgstr "Ingen videoer fundet."
+
+msgid "No Videos found in Trash."
+msgstr "Ingen videoer fundet i papirkurven."
+
+msgid "Video categories"
+msgstr "Videokategorier"
+
+msgid "Video search form"
+msgstr "Videosøgningsformular"
+
+msgid "Video tags"
+msgstr "Video tags"
+
+msgid "Video Settings"
+msgstr "Videoindstillinger"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "URLs"
+msgstr "URL'er"
+
+msgid "Enable Video Download"
+msgstr "Aktivér videooverførsel"
+
+msgid "Submit"
+msgstr "Indsend"
+
+msgid "Video archive page URL"
+msgstr "Videoarkivets webadresse"
+
+msgid "Related Videos"
+msgstr "Lignende videoer"
+
+msgid "Search for videos"
+msgstr "Søg efter videoer"
+
+msgid "Go"
+msgstr "Gå"

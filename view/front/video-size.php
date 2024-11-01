@@ -1,0 +1,1 @@
+<div class="video-size" id="video-size-<?php echo $post_id;?>"><?php echo $video_size;?></div>
